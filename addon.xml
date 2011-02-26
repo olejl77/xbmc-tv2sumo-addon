@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="plugin.video.tv2sumo"
+  version="0.0.1"
+  name="TV2Sumo"
+  provider-name="olejl77@gmail.com">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">TV2 Norway</summary>
+    <summary lang="no">TV2 Norge</summary>
+    <description lang="en">Web-TV</description>
+    <description lang="no">Web-TV</description>
+  </extension>
+</addon>
