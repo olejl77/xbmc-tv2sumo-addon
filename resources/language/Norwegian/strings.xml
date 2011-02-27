@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <strings>
-	<string id="1000">Generelt</string>
-	<string id="1001">Brukernavn</string>
-	<string id="1001">Passord</string>
+	<string id="30000">Generelt</string>
+	<string id="30001">Brukernavn</string>
+	<string id="30002">Passord</string>
+
+	<string id="30101">Direkte</string>
+	<string id="30102">Nyhetene</string>
+	<string id="30103">Fakta</string>
+	<string id="30104">Underholdning</string>
+	<string id="30105">Sporten</string>
+	<string id="30106">A til Å</string>
+	<string id="30107">Søk</string>
 </strings>

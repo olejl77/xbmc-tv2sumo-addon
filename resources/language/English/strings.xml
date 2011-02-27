@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <strings>
-	<string id="1000">General</string>
-	<string id="1001">Username</string>
-	<string id="1001">Password</string>
+	<string id="30000">General</string>
+	<string id="30001">Username</string>
+	<string id="30002">Password</string>
+
+	<string id="30101">Live</string>
+	<string id="30102">News</string>
+	<string id="30103">Non-Fiction</string>
+	<string id="30104">Entertainment</string>
+	<string id="30105">Sport</string>
+	<string id="30106">A to Å</string>
+	<string id="30107">Search</string>
 </strings>
